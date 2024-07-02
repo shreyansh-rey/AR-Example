@@ -1,0 +1,6 @@
+AR App.apk is the application, make sure you run it on ARM 64 systems.
+
+for the code, you can simply create a new project using Unity 6000.0.0f1 and import the package file.
+Essentials -> Scripts contains the script(s).
+
+Didn't include the entire project file because it was too big.
